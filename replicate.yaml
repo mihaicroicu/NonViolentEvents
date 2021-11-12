@@ -1,0 +1,20 @@
+name: nver 
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - statsmodels
+  - pandas
+  - numpy
+  - nb_conda
+  - matplotlib
+  - jupyter
+  - geopandas
+  - descartes
+  - mapclassify
+  - xlrd
+  - openpyxl
+  - shapely
+  - esda
+  - seaborn
+prefix: /Users/mihai/miniconda3/envs/nver

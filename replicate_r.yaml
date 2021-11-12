@@ -1,0 +1,14 @@
+name: r_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base
+  - jupyter
+  - r-tidyverse
+  - r-essentials
+  - r-irkernel
+  - r-tictoc
+  - r-lme4
+  - r-bcp
+prefix: /Users/mihai/miniconda3/envs/r_env
