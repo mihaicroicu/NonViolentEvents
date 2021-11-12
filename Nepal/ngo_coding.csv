@@ -1,0 +1,514 @@
+CASEQUANTITY,CASEDATE,VICTIMSNAME,AGE,GENDER,DISTRICTNAME,VDCMCP,WARDNO,LOCATIONNO,OCCUPATIONDESCRIPTION,DESIGNATION,KILLINGSTYPE,KILLINGSSUBTYPE,VICTIMSTATUSDESCRIPTION,VICTIMSTATUSSUBDESCRIPTION
+10,2002-01-04,Student,,N/A,Kailali,Paddon,9,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+12,2002-01-23,Unidentified (Student),25,Male,Salyan,Shyunrat,4,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+35,2002-06-15,Unidentified,,N/A,Jumla,Depalgaun,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+20,2002-07-12,Unidentifed,,N/A,Jumla,Narakot,5,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+22,2002-07-16,Unidentified,,N/A,Jumla,Kanaka Sundari,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+22,2002-07-16,Unidentified,,N/A,Jumla,Kanaka Sundari,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+57,2002-09-09,Military,30,Male,Arghakhanchi,Sandhikharka,6,0,Military,Military,By Non-State,Maoists,Abduction,Abduction
+200,2002-09-19,Student,,N/A,Ramechhap,Ghotgaon,3,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+5,2002-09-19,Teacher,,N/A,Ramechhap,Ghotgaon,3,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+8,2002-09-20,Unidentified,30,Male,Dhading,Benighat,1,0,Unavailable,UML,By Non-State,Maoists,Abduction,Abduction
+17,2002-11-14,Unidentified (Police),30,Male,Jumla,Chandannath,,0,Civil/Private Service,Police,By Non-State,Maoists,Abduction,Abduction
+9,2002-11-14,Unidentified,30,Male,Jumla,Chandannath,,0,Prisoner,Prisoner,By Non-State,Maoists,Abduction,Abduction
+35,2003-01-22,Unidentified,,Male,Gulmi,Jyalpokhari,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+10,2003-01-22,Unidentified,,Male,Dadeldhura,Jogbudda,4,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+50,2003-02-17,Student,,N/A,Ramechhap,Pakarbas,6,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+20,2003-04-14,Unidentified,,Male,Taplejung, ,4,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+20,2003-04-20,Unidentified - Civilian,,Male,Sarlahi,Sarlahi,,0,Agriculture,Civilian,By Non-State,Maoists,Abduction,Abduction
+36,2003-11-28,Unidentified,,Male,Achham, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+48,2004-01-18,Unidentified,,Male,Achham,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+106,2004-01-22,Students,,N/A,Lamjung,Phaleni,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+9,2004-01-22,Teachers,,N/A,Lamjung,Phaleni,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+106,2004-01-27,Tara Nath Khaniya,55,Male,Lamjung,Duradanda,1,0,Political Worker,RPP,By Non-State,Maoists,Abduction,Abduction
+5,2004-01-27,Unidentified,,Male,Sarlahi,Hariban,4,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+11,2004-01-31,Unidentified,,Male,Achham,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+7,2004-01-31,Unidentified,,Female,Achham,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+317,2004-02-13,Unidentified,,N/A,Achham,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+79,2004-02-22,Unidentified,,N/A,Kailali, ,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+11,2004-03-08,Unidentified,,Male,Myagdi,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+27,2004-03-11,Unidentified,,N/A,Baglung,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+25,2004-03-12,Unidentified,,Male,Dadeldhura,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+51,2004-03-12,Unidentified,,Male,Dadeldhura,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+23,2004-03-15,Unidentified,,N/A,Baglung,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+23,2004-03-15,Unidentified,,N/A,Baglung,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+20,2004-03-17,Unidentified,,N/A,Baglung,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+55,2004-03-18,Unidentified,,N/A,Terhathum,Gaukhuri high School,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+10,2004-03-18,Unidentified,,N/A,Terhathum,Gaukhuri high School,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+200,2004-03-19,Shivapur Ma.Bi - Students,,N/A,Doti,Saraswotinagar,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+150,2004-03-22,Teachers,,N/A,Darchula,Darchula,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+50,2004-03-25,No name ,,Male,Dhading,,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+7,2004-03-28,Unidentified,,N/A,Dhankuta,Muga,7,0,Civil/Private Service,N/A,By Non-State,Maoists,Abduction,Abduction
+9,2004-03-29,Unidentified,,N/A,Bajura,Kuldevmandu,6,0,Labour,N/A,By Non-State,Maoists,Abduction,Abduction
+13,2004-03-29,Unidentified,,N/A,Bajura,Barbis,4,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+48,2004-03-30,Unidentified,,N/A,Bajura,Kailashmandu,6,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+30,2004-03-30,Unidentified,,N/A,Bajura,Barbis,5,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+28,2004-03-30,Unidentified,,N/A,Bajura,Kailashmandu,8,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+27,2004-03-30,Unidentified,,N/A,Bajura,Barbis,6,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+25,2004-03-30,NO Name,,N/A,Bajura,Kailashmandu,9,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+25,2004-03-30,Unidentified,,N/A,Bajura,Barbis,7,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+23,2004-03-30,Unidentified,,N/A,Bajura,Kuldevmandu,6,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+20,2004-03-30,Unidentified,,N/A,Bajura,Kailashmandu,6,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+14,2004-03-30,Unidentified,,N/A,Bajura,Barbis,3,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+13,2004-03-30,Unidentified,,N/A,Bajura,Barbis,8,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+12,2004-03-30,Unidentified,,N/A,Bajura,Kailashmandu,5,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+11,2004-03-30,Unidentified,,N/A,Bajura,Barbis,4,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+11,2004-03-30,Unidentified,,N/A,Bajura,Barbis,4,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+6,2004-03-30,Unidentified,,N/A,Bajura,Barbis,8,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+5,2004-03-30,Unidentified,,N/A,Bajura,Kailashmandu,7,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+5,2004-03-30,Unidentified,,N/A,Bajura,Barbis,7,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+28,2004-04-05,Unidentified,,Male,Panchathar,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+25,2004-04-10,Unidentified,,Male,Ramechhap, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+300,2004-04-13,Civilian- Tijali VDC,,N/A,Doti,Tijali ,,0,Agriculture,Worker,By Non-State,Maoists,Abduction,Abduction
+400,2004-04-13,Unidentified,,N/A,Taplejung,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+11,2004-04-18,Unidentified,,N/A,Bajura,Manakot,5,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+120,2004-04-20,Unidentified,,N/A,Panchathar, ,9,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+19,2004-04-20,Unidentified,,Male,Panchathar,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+19,2004-04-23,Unidentified,,N/A,Mahottari,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+13,2004-04-23,Unidentified,,N/A,Mahottari,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+250,2004-04-25,Unidentified,,N/A,Darchula,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+250,2004-04-28,Unidentified,,N/A,Taplejung,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+50,2004-04-28,Unidentified,,N/A,Taplejung,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+150,2004-04-29,Unidentified,,N/A,Taplejung,Phoolbari,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+30,2004-05-02,NO Name,,N/A,Taplejung,Sinam,4,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+8,2004-05-02,Unidentified,,N/A,Sindhuli,Hatpate vdc,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+6,2004-05-02,Unidentified,,Male,Sindhuli,Sitauli vdc,1,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+320,2004-05-03,Unidentified,,N/A,Dadeldhura,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+30,2004-05-03,Unidentified,,N/A,Taplejung,Sablakhu,4,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+67,2004-05-06,Unidentified,,N/A,Bajhang,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+70,2004-05-07,Unidentified,,N/A,Baitadi,Satyanarayan Ma Bi,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+26,2004-05-07,Unidentified,,N/A,Sindhuli,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+210,2004-05-09,Students,,N/A,Lamjung,Shreebhanjyang,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+70,2004-05-09,Unidentified,,N/A,Baitadi,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+21,2004-05-09,Teachers,,N/A,Lamjung,Shreebhanjyang,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+16,2004-05-09,Unidentified,,Male,Humla,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+25,2004-05-11,Unidentified,,Male,Ramechhap,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+9,2004-05-14,Unidentified,,N/A,Ramechhap, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+9,2004-05-14,Unidentified,,N/A,Ramechhap,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+6,2004-05-14,Unidentified,,N/A,Ramechhap, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+150,2004-05-17,Teachers,,N/A,Rautahat,Rautahat,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+25,2004-05-17,Unidentified,,Male,Sarlahi,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+7,2004-05-20,Unidentified,,Male,Sindhuli,Bahuntilpung,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+184,2004-05-21,Unidentified,,N/A,Jumla,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+39,2004-05-21,Unidentified,,N/A,Kailali,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+20,2004-05-21,Unidentified,,N/A,Kailali,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+7,2004-05-21,Unidentified,,Male,Sindhuli,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+6,2004-05-21,Unidentified,,N/A,Jumla,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+6,2004-05-21,Unidentified,,Male,Kailali,Kalika Ma Bi,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+43,2004-05-22,Unidentified,,N/A,Baglung,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+8,2004-05-23,Unidentified,,Male,Sindhuli,Chapauli,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+344,2004-05-24,Unidentified,,N/A,Dailekh,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+150,2004-05-24,Unidentified,,Male,Dailekh,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+92,2004-05-24,Unidentified,,N/A,Jumla,Mahat vdc,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+45,2004-05-25,Unidentified,,Male,Achham,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+10,2004-05-25,Unidentified,,Male,Sindhuli,Jhaghajoli,5,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+9,2004-05-25,Unidentified,,Male,Sindhuli,Okhareni,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+250,2004-05-25,Unidentified,,N/A,Baitadi,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+30,2004-05-25,Unidentified,,Female,Achham,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+500,2004-05-27,Unidentified,,N/A,Jajarkot,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+99,2004-05-27,Unidentified,,N/A,Sindhupalchowk,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+220,2004-05-27,Unidentified,,N/A,Jajarkot,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+14,2004-05-27,Ram hari Timalsina,,Male,Kavre,Chyamrangbesi,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+11,2004-05-27,Unidentified,,N/A,Sindhupalchowk,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+204,2004-05-27,Unidentified,,Female,Kailali,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+197,2004-05-27,Unidentified,,Male,Kailali,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+100,2004-05-28,Unidentified,,N/A,Dadeldhura,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+30,2004-05-29,Jivan Pomu,,N/A,Taplejung,Nisuradin,8,0,Agriculture,Worker,By Non-State,Maoists,Abduction,Abduction
+100,2004-05-29,Students-Teacher,,N/A,Bhojpur,Bhojpur,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+45,2004-05-30,Unidentified,,N/A,Surkhet,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+250,2004-05-30,Unidentified,,N/A,Udaypur,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+10,2004-05-30,Unidentified,,N/A,Sindhupalchowk,,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+250,2004-05-31,Khamba Bahadur Magar,,N/A,Udaypur,,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+51,2004-06-01,NO Name,,N/A,Myagdi,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+13,2004-06-01,Unidentified,,N/A,Sindhupalchowk,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+10,2004-06-02,Unidentified,,N/A,Surkhet,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+50,2004-06-03,Unidentified,,N/A,Humla,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+350,2004-06-04,Unidentified,,Female,Dadeldhura,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+47,2004-06-06,Unidentified,,N/A,Surkhet,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+57,2004-06-06,Unidentified,,N/A,Kalikot,Manma,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+55,2004-06-07,Unidentified,,N/A,Surkhet,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+200,2004-06-07,Unidentified,,N/A,Sindhuli,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+12,2004-06-08,Unidentified,,N/A,Sindhuli, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+12,2004-06-08,Unidentified,,N/A,Sindhuli, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+25,2004-06-08,Teachers,,Male,Dhading,Uttari Chhetra,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+15,2004-06-09,Unidentified,,N/A,Sindhuli, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+12,2004-06-09,Unidentified,,N/A,Sindhuli, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+32,2004-06-10,Unidentified,,Male,Surkhet,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+700,2004-06-10,Unidentified,,N/A,Kalikot,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+300,2004-06-10,Unidentified,,N/A,Kalikot,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+301,2004-06-11,Unidentified,,N/A,Tanahu,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+50,2004-06-13,Unidentified,,Male,Sindhuli,,,0,Business,N/A,By Non-State,Maoists,Abduction,Abduction
+17,2004-06-13,Unidentified,,Male,Sindhuli,Sitauli ,1,0,Business,N/A,By Non-State,Maoists,Abduction,Abduction
+14,2004-06-13,Unidentified,,Male,Surkhet,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+24,2004-06-13,Unidentified,,Female,Dailekh,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+20,2004-06-16,Unidentified,,N/A,Lalitpur, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+15,2004-06-16,Unidentified,,N/A,Lalitpur, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+7,2004-06-16,Unidentified,,N/A,Lalitpur, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+53,2004-06-19,Unidentified,,N/A,Kailali,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+49,2004-06-19,Unidentified,,N/A,Kailali,,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+150,2004-06-19,Unidentified,,N/A,Kailali,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+28,2004-06-20,Unidentified,,N/A,Rukum,Rukumkot ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+12,2004-06-20,Unidentified,,N/A,Rukum,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+15,2004-06-21,Unidentified,,N/A,Bajura,,,0,Agriculture,N/A,By Non-State,Maoists,Abduction,Abduction
+5,2004-06-21,Unidentified Womens,,Female,Dolakha, ,4,0,Agriculture,Worker,By Non-State,Maoists,Abduction,Abduction
+1000,2004-06-21,Unidentified,,N/A,Kailali,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+36,2004-06-21,Unidentified,,N/A,Kailali,,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+12,2004-06-23,Unidentified,,Male,Sindhuli, ,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+12,2004-06-23,Unidentified,,Male,Sindhuli, ,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+11,2004-06-23,Unidentified,,Male,Sindhuli, ,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+8,2004-06-23,Unidentified,,Male,Sindhuli, ,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+7,2004-06-23,Unidentified,,Male,Sindhuli, ,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+25,2004-06-26,Unidentified,,N/A,Dhanusha,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+24,2004-06-27,Teachers,,N/A,Dhading,Uttari,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+42,2004-06-29,Unidentified,,Male,Baitadi, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+36,2004-06-30,Unidentified,,N/A,Makawanpur,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+5,2004-07-01,Unidentified,,Male,Salyan,Pippleneta,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+9,2004-07-02,Unidentified,,Male,Ilam,Gokharka,2,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+5,2004-07-02,Unidentified,,Female,Ilam,Gokharka,2,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+25,2004-07-04,Unidentified,,N/A,Ilam,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+149,2004-07-06,Unidentified,,N/A,Udaypur,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+150,2004-07-07,Unidentified,,Male,Dadeldhura,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+6,2004-07-09,Unidentified,,Female,Kaski,Lahachowk vdc,3,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+5,2004-07-12,Unidentified,,Male,Panchathar,,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+5,2004-07-12,Unidentified,,Male,Panchathar,,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+7,2004-07-17,Unidentified,,N/A,Panchathar,Dudimba vdc,3,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+47,2004-07-18,Unidentified,,N/A,Kathmandu,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+20,2004-07-18,Unidentified,,N/A,Lalitpur,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+20,2004-07-20,Bal Ram Shah,40,Male,Jumla,Lamra,5,0,Civil/Private Service,Teacher,By Non-State,Maoists,Abduction,Abduction
+200,2004-07-22,Unidentified,,N/A,Panchathar,Lumfabungh,3,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+145,2004-07-22,Unidentified,,N/A,Udaypur,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+150,2004-07-27,Unidentified,,N/A,Bajhang, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+100,2004-07-27,Unidentified,,N/A,Humla,Madana/Maila/Kalika,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+850,2004-07-27,Unidentified,,N/A,Jumla,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+161,2004-07-28,Unidentified,,N/A,Panchathar,Ranitar,2,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+24,2004-08-01,Unidentified,33,Male,Panchathar,Bharapa VDC,7,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+200,2004-08-01,Unidentified,,N/A,Panchathar,Tharpu,7,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+9,2004-08-02,Unidentified,,N/A,Ilam,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+10,2004-08-04,Unidentified,,N/A,Taplejung,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+18,2004-08-04,Unidentified,,N/A,Doti,Kadel vdc,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+200,2004-08-06,Unidentified,,N/A,Panchathar,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+8,2004-08-07,Unidentified,,Female,Dang,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+24,2004-08-10,Unidentified,,N/A,Surkhet,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+100,2004-08-14,Unidentified,,N/A,Humla,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+100,2004-08-15,NO Name,,N/A,Myagdi,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+100,2004-08-15,NO Name,,N/A,Myagdi,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+32,2004-08-16,Unidentified,,Male,Baglung,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+12,2004-08-17,Unidentified,,N/A,Taplejung,Thukimba,8,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+24,2004-08-21,Tula giri,24,Male,Bajura,Jaganath,7,0,Civil/Private Service,N/A,By Non-State,Maoists,Abduction,Abduction
+250,2004-08-23,Groupe of people,,N/A,Bajura,,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+15,2004-08-23,Ganesh rokaya,41,Male,Bajura,Manakot,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+48,2004-08-27,Unidentified,,N/A,Sindhuli, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+36,2004-08-27,Unidentified,,N/A,Sindhuli, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+36,2004-08-27,Unidentified,,N/A,Sindhuli, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+100,2004-08-28,Unidentified,,N/A,Kailali,Sadepani-VDC,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+40,2004-09-02,Unidentified,,N/A,Gulmi,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+35,2004-09-02,Unidentified,,N/A,Gulmi,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+218,2004-09-03,Unidentified,,N/A,Udaypur,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+20,2004-09-06,Unidentified,,N/A,Sindhupalchowk,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+400,2004-09-08,Unidentified,,N/A,Dolakha, ,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+10,2004-09-08,Unidentified,,N/A,Dolakha,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+500,2004-09-09,Unidentified,,N/A,Rukum,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+100,2004-09-09,Unidentified,,N/A,Rukum,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+69,2004-09-09,Grop of people,,N/A,Bajura,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+800,2004-09-10,Unidentified,,N/A,Doti,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+9,2004-09-10,NO Name,,N/A,Myagdi,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+700,2004-09-11,Gunskhar Kafle,,N/A,Pyuthan,Eladi,6,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+33,2004-09-13,Kishor shahi,15,Male,Bajura,Pandusen,8,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+33,2004-09-13,Ayashiworya singh,16,Female,Bajura,Pandusen,8,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+8,2004-09-13,Unidentified,,N/A,Ramechhap,Duragaun,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+660,2004-09-15,Unidentified,,N/A,Syangja,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+7,2004-09-15,Unidentified,,N/A,Bhojpur,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+5,2004-09-15,Unidentified,,N/A,Bhojpur,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+31,2004-09-16,Unidentified,,N/A,Bhojpur,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+19,2004-09-16,Unidentified,,N/A,Bhojpur,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+148,2004-09-16,Unidentified,,N/A,Palpa,,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+8,2004-09-16,Unidentified,,N/A,Bhojpur,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+22,2004-09-17,Unidentified,,N/A,Humla, ,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+10,2004-09-17,Bahadur singh rawal,,Male,Bajura,Barabisa,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+10,2004-09-17,Dharma raj shah,,Male,Bajura,Barabisa,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+10,2004-09-17,Prakash kuwar,,Male,Bajura,Barabisa,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+200,2004-09-19,Unidentified,,N/A,Surkhet,Lekhgaun,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+90,2004-09-23,No name ,,N/A,Dhading,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+40,2004-09-24,Unidentified,,N/A,Panchathar,Saraang danda,3,0,Political Worker,Janamorcha Nepal,By Non-State,Maoists,Abduction,Abduction
+23,2004-09-25,Sher bahadur chand,,Male,Baitadi,Bashuling-VDC,7,0,Business,N/A,By Non-State,Maoists,Abduction,Abduction
+210,2004-09-28,Unidentified,,N/A,Doti,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+32,2004-10-04,Group of peeople,,N/A,Baitadi,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+350,2004-10-16,Groupe of teachers and student,,N/A,Ramechhap,Tilpung-VDC,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+50,2004-10-16,Groupe of teachers and student,,N/A,Ramechhap,Tilpung-VDC,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+51,2004-10-17,Unidentified,,N/A,Baglung,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+37,2004-11-08,Unidentified,,Male,Sunsari,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+200,2004-11-09,Unidentified,,N/A,Tanahu,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+9,2004-11-09,Unidentified,,N/A,Tanahu,,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+25,2004-11-11,Groupe of students,,N/A,Bajhang,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+11,2004-11-17,Madan Goli,13,Male,Surkhet,Hariharpur,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+150,2004-11-17,Unidentified,,N/A,Darchula,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+150,2004-11-18,Unidentified,,N/A,Lamjung,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+5,2004-11-19,Unidentified,,Male,Surkhet,Kunathari,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+14,2004-11-22,Dipak Bhattarai,48,Male,Jhapa,Baniyani,8,0,Civil/Private Service,Principal,By Non-State,Maoists,Abduction,Abduction
+14,2004-11-22,Tara Regmi,40,Male,Jhapa,Baniyani,8,0,Civil/Private Service,Teacher,By Non-State,Maoists,Abduction,Abduction
+14,2004-11-22,Gopal Khatiwada,28,Male,Jhapa,Prithivi,5,0,Civil/Private Service,Teacher,By Non-State,Maoists,Abduction,Abduction
+14,2004-11-22,Krishna Gautam,35,Male,Jhapa,Baniyani,8,0,Civil/Private Service,Principal,By Non-State,Maoists,Abduction,Abduction
+14,2004-11-22,Ram Krishna Sharma,38,Male,Jhapa,Baniyani,6,0,Civil/Private Service,Teacher,By Non-State,Maoists,Abduction,Abduction
+14,2004-11-22,Bishnu Kharel,34,Female,Jhapa,Baniyani,4,0,Civil/Private Service,Teacher,By Non-State,Maoists,Abduction,Abduction
+200,2004-11-23,Unidentified,,N/A,Lamjung,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+200,2004-11-23,Unidentified,,N/A,Lamjung,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+100,2004-11-23,Unidentified,,N/A,Lamjung,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+100,2004-11-23,Unidentified,,N/A,Lamjung,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+5,2004-11-24,Lokendra shahi,25,Male,Kailali,Tikapur-MCP,4,0,Business,N/A,By Non-State,Maoists,Abduction,Abduction
+150,2004-12-04,Unidentified,,N/A,Doti,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+92,2004-12-05,Group of students\teachers,,N/A,Bajhang,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+70,2004-12-10,Unidentified,,N/A,Makawanpur, ,11,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+12,2004-12-12,Group of students,,N/A,Bajhang,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+23,2004-12-13,Bir bahadur thapa,29,Male,Jajarkot,Jhapra-VDC,2,0,Agriculture,N/A,By Non-State,Maoists,Abduction,Abduction
+163,2004-12-16,Groupe of teachers as student,,N/A,Gorakha,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+250,2004-12-17,Groupe of teachers as student,,N/A,Gorakha,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+102,2004-12-17,Unidentified,,N/A,Nawalparasi,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+200,2004-12-23,Unidentified,,N/A,Kailali,Badimalika Ma Bi,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+489,2004-12-23,Unidentified,,Male,Taplejung,Thechumba,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+210,2004-12-23,Unidentified,,Female,Taplejung,Thechumba,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+6,2004-12-28,NO Name,,N/A,Solukhumbu,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+15,2005-01-04,Unidentified,,N/A,Bhojpur, ,,0,Labour,N/A,By Non-State,Maoists,Abduction,Abduction
+13,2005-01-04,Unidentified,,N/A,Bhojpur,,,0,Labour,N/A,By Non-State,Maoists,Abduction,Abduction
+14,2005-01-06,Unidentified,,Female,Surkhet,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+19,2005-01-07,Unidentified,,Male,Panchathar,,,0,Indian Civilian,N/A,By Non-State,Maoists,Abduction,Abduction
+300,2005-01-08,Unidentified,,N/A,Rautahat,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+200,2005-01-13,Unidentified,,N/A,Dhading,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+175,2005-01-16,Unidentified,,N/A,Dhading, ,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+8,2005-01-16,Unidentified,,N/A,Dhading, ,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+700,2005-01-17,Unidentified,,N/A,Ramechhap,Saipru,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+100,2005-01-17,Unidentified Students,,N/A,Kavre,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+30,2005-01-17,Unidentified,,N/A,Ramechhap,Saipru,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+6,2005-01-17,Unidentified,,Male,Sindhuli,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+50,2005-01-19,Unidentified Children,,N/A,Ramechhap,Salu,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+240,2005-01-20,Unidentified,,N/A,Dhading,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+110,2005-01-20,Unidentified,,N/A,Sankhuwasabha,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+15,2005-01-20,Unidentified,,N/A,Sankhuwasabha, ,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+14,2005-01-20,Unidentified,,N/A,Sankhuwasabha, ,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+10,2005-01-20,Unidentified,,N/A,Dhading, ,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+190,2005-01-21,Unidentified,,N/A,Dhading, ,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+10,2005-01-21,Unidentified,,N/A,Dhading, ,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+300,2005-01-23,Unidentified,,N/A,Taplejung,,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+15,2005-01-23,Unidentified,,Male,Sindhuli,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+5,2005-01-23,Unidentified,,N/A,Sindhuli, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+30,2005-01-24,Unidentified,,N/A,Dhankuta, ,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+10,2005-01-24,Unidentified,,Male,Dhankuta,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+200,2005-01-24,Unidentified,,N/A,Dhading, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+78,2005-01-25,Unidentified,,N/A,Dhading, ,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+5,2005-01-25,Unidentified,,N/A,Dhading, ,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+17,2005-01-26,Unidentified,,N/A,Dhading, ,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+8,2005-01-26,Unidentified,,Male,Panchathar,Chyanghathapu,9,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+100,2005-01-27,Unidentified Students Teachersand others,,N/A,Dhankuta, ,,0,Unavailable,Muslim,By Non-State,Maoists,Abduction,Abduction
+35,2005-01-27,Unidentified Teachers and Students,,N/A,Dhankuta, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+350,2005-01-28,Unidentified,,N/A,Jhapa, ,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+230,2005-01-28,Unidentified,,N/A,Jhapa, ,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+50,2005-01-28,Unidentified,,N/A,Jhapa, ,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+20,2005-01-28,Unidentified,,N/A,Jhapa,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+50,2005-01-30,Unidentified,,N/A,Dhankuta, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+55,2005-02-05,Unidentified People,,N/A,Dhankuta, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+25,2005-02-05,Unidentified People,,N/A,Dhankuta, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+25,2005-02-07,Unidentified People,,N/A,Dhankuta, Marek Khatari,7,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+5,2005-02-08,Unidentified,,N/A,Surkhet, ,,0,Civil/Private Service,N/A,By Non-State,Maoists,Abduction,Abduction
+100,2005-02-11,Unidentified People,,N/A,Dhankuta,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+30,2005-02-13,Unidentified Teachersand Civilian,,N/A,Dhankuta,Murtidhunga,9,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+25,2005-02-13,Unidentified People,,N/A,Dhankuta, Jitpur,2,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+15,2005-02-13,Unidentified,,Male,Jhapa,Panchgachi,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+542,2005-02-15,Unidentified,,N/A,Bajhang, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+15,2005-02-18,Unidentified,,N/A,Kapilvastu,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+500,2005-02-18,Unidentified,,N/A,Taplejung,Ambegudin vdc,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+300,2005-02-18,Unidentified,,N/A,Dhankuta, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+23,2005-02-21,Unidentified,,Male,Sindhupalchowk, ,,0,Agriculture,N/A,By Non-State,Maoists,Abduction,Abduction
+350,2005-02-24,Unidentified,,N/A,Nuwakot, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+7000,2005-02-25,Unidentified,,N/A,Taplejung, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+52,2005-03-06,Unidentified,,N/A,Dadeldhura,Amargadhi NP,2,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+200,2005-03-11,Unidentified Teachersand Civilian,,N/A,Dhankuta,Dhankuta,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+35,2005-03-11,Unidentified Teachersand Civilian,,N/A,Dhankuta,Jitpur,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+20,2005-03-13,Unidentified Woman,30,Female,Ramechhap,Khimti,5,0,Agriculture,N/A,By Non-State,Maoists,Abduction,Abduction
+9,2005-03-18,Unidentified,,Male,Panchathar,Tharpu,2,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+175,2005-03-27,Unidentified Civilian,,N/A,Dhankuta,"jitpur,murtidhunga",,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+40,2005-03-27,Unidentified,,N/A,Dhankuta, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+28,2005-04-08,Unidentified,,N/A,Dhankuta,Jitpur-1,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+250,2005-04-19,Unidentified,,N/A,Dhankuta, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+96,2005-04-20,Unidentified,,N/A,Bajura,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+77,2005-04-20,Unidentified ,,N/A,Bajura,budhiganaga,9,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+16,2005-04-20,Unidentified Childrens,,N/A,Bajura,budhiganaga,9,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+47,2005-04-27,Unidentified,,N/A,Makawanpur,Daman VDC,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+17,2005-04-29,Unidentified,,N/A,Bajura,Budhiganga vdc,8,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+5,2005-05-03,Unidentified,,N/A,Surkhet,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+20,2005-05-06,Unidentified,,N/A,Terhathum, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+15,2005-05-06,Unidentified,,N/A,Terhathum, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+11,2005-05-06,Unidentified,,N/A,Terhathum, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+9,2005-05-06,Unidentified,,N/A,Terhathum, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+8,2005-05-06,Unidentified,,N/A,Terhathum, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+7,2005-05-06,Unidentified,,N/A,Terhathum,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+7,2005-05-06,Unidentified,,N/A,Terhathum, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+5,2005-05-06,Unidentified,,N/A,Terhathum, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+300,2005-05-09,Unidentified,,N/A,Rukum, ,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+130,2005-05-09,Unidentified,,N/A,Rukum, ,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+120,2005-05-09,Unidentified,,N/A,Rukum,,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+78,2005-05-09,Unidentified,,N/A,Rukum,Bhalakacha vdc,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+20,2005-05-09,Unidentified,,N/A,Rukum, ,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+130,2005-05-10,Unidentified,,N/A,Rukum,Shobha,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+20,2005-05-10,Unidentified,,N/A,Rukum,Shobha,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+30,2005-05-11,Unidentified,,N/A,Taplejung,Nankholyang VDC,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+300,2005-05-13,Unidentified,,N/A,Taplejung,Tiringe VDC,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+42,2005-05-18,Unidentified,,N/A,Dhankuta,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+17,2005-05-25,Unidentified,,Female,Dhankuta, ,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+8,2005-05-25,Unidentified,,Male,Dhankuta, ,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+190,2005-05-30,Unidentified,,N/A,Gorakha,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+10,2005-05-30,Unidentified,,N/A,Gorakha, ,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+150,2005-06-01,Unidentified,,N/A,Dhankuta, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+14,2005-06-01,Santi Ram Poudyal,,N/A,Dhankuta, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+2000,2005-06-06,Unidentified students,,N/A,Myagdi,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+105,2005-06-13,Students,,N/A,Dhankuta, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+75,2005-06-14,Students,,N/A,Dhankuta, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+250,2005-06-15,Unidentified,,Male,Gulmi,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+90,2005-06-18,Unidentified,,N/A,Gulmi,Pauchhi amarayee,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+5,2005-06-22,Unidentified,,N/A,Bhojpur, ,,0,Military,Military,By Non-State,Maoists,Abduction,Abduction
+7,2005-06-22,Unidentified,,N/A,Bhojpur, ,,0,Police,Police,By Non-State,Maoists,Abduction,Abduction
+21,2005-06-24,Unidentified,,N/A,Dadeldhura,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+150,2005-07-08,Unidentified,,N/A,Jajarkot,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+40,2005-07-09,Unidentified,,N/A,Baitadi,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+89,2005-07-11,Unidentified,,Male,Bajura,Chhatara,8,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+1000,2005-07-16,Unidentified,,N/A,Humla, ,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+50,2005-07-24,Unidentified,,N/A,Mugu,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+200,2005-07-31,Unidentified,,N/A,Dhankuta, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+500,2005-08-05,No Name,,N/A,Taplejung, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+22,2005-08-17,Unidentified ,,N/A,Okhaldhunga, ,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+16,2005-08-17,Unidentified Students,,N/A,Okhaldhunga,Baruneshwor,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+15,2005-08-17,Unidentified ,,N/A,Okhaldhunga, ,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+14,2005-08-17,Unidentified Teachers Students,,N/A,Okhaldhunga,Bigutar,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+700,2005-08-28,Unidentified,,N/A,Taplejung,,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+800,2005-08-28,NO Name,,N/A,Taplejung, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+200,2005-08-29,Unidentified,,N/A,Gulmi,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+24,2005-08-31,Unidentified,,N/A,Sindhupalchowk, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+16,2005-09-01,Unitedtified Childrens,,N/A,Sindhuli,KhangSangVDC,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+5,2005-09-03,Unidentified,,N/A,Bajura,,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+13,2005-09-05,Unidentified,,N/A,Bajura,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+124,2005-09-06,Unidentified Students,,N/A,Bajura,Bhanudaya U.MaVi,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+93,2005-09-06,Unidentified,,Male,Bajura, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+31,2005-09-06,Unidentified,,Female,Bajura, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+20,2005-09-06,No Name,,N/A,Taplejung,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+17,2005-09-08,Unidentified,,N/A,Dadeldhura,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+2000,2005-09-08,Unidentified,,N/A,Taplejung,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+10,2005-09-08,Unidentified,,N/A,Bajura,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+190,2005-09-09,Unidentified,,N/A,Dadeldhura,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+17,2005-09-10,Unidentified,,N/A,Bajura,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+100,2005-09-10,Unidentified Students,,N/A,Myagdi,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+36,2005-09-10,Unidentified teachers,,N/A,Sindhuli,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+60,2005-09-11,Unidentified,,N/A,Dolpa,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+32,2005-09-11,Unidentified,,N/A,Okhaldhunga, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+17,2005-09-11,Unidentified,,N/A,Okhaldhunga,Serna,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+10,2005-09-11,Unidentified Students,,N/A,Okhaldhunga, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+8,2005-09-11,Unidentified Students,,N/A,Okhaldhunga, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+5,2005-09-11,Unidentified,,N/A,Okhaldhunga,Manebhanjyang,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+12,2005-09-11,Unidentified,,N/A,Okhaldhunga,Manebhanjyang,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+11,2005-09-11,Unidentified,,N/A,Okhaldhunga, ,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+9,2005-09-11,Unidentified,,N/A,Okhaldhunga,Serna,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+9,2005-09-11,Unidentified Teachers,,N/A,Okhaldhunga, ,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+7,2005-09-11,Unidentified Teachers,,N/A,Okhaldhunga, ,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+6,2005-09-11,Unidentified,,N/A,Bajura, ,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+20,2005-09-13,Unidentified teachers,,N/A,Ramechhap,Tilpung,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+10,2005-09-14,Unidentified,,N/A,Bajura,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+25,2005-09-15,Unidentified teachers,,N/A,Sindhuli,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+24,2005-09-17,Unidentified,,N/A,Bajura, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+10,2005-09-17,Unidentified,,N/A,Bajura,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+12,2005-09-18,Unidentified Students,,N/A,Bajura,Gudukhati,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+8,2005-09-18,Unidentified,,Male,Bajura,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+9,2005-09-19,Unidentified,,N/A,Saptari,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+50,2005-09-19,Unidentified Teachers,,N/A,Ramechhap,Khimti,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+27,2005-09-19,Unidentified Students,,N/A,Sindhuli,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+700,2005-09-22,Unidentified,,N/A,Rukum,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+15,2005-09-22,Unidentified,,N/A,Okhaldhunga,Betini,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+15,2005-09-22,Unidentified,,N/A,Okhaldhunga, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+12,2005-09-22,Unidentified Teachers,,N/A,Okhaldhunga, ,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+8,2005-09-22,Unidentified,,N/A,Okhaldhunga,Betini,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+200,2005-09-22,Unidentified Teachers Students,,N/A,Okhaldhunga,Katunje,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+12,2005-09-23,Unidentified,,Male,Surkhet,,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+106,2005-09-24,Unidentified,,Male,Jajarkot,,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+17,2005-09-27,Unidentified,,Male,Surkhet,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+15,2005-09-27,Unidentified,,Male,Surkhet,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+19,2005-09-28,Unidentified,,N/A,Surkhet,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+150,2005-09-28,Unidentified,,N/A,Gorakha, ,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+11,2005-09-28,Unidentified Students,,N/A,Khotang,Ghartung,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+12,2005-09-29,Unidentified,,N/A,Surkhet,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+750,2005-09-29,Unidentified,,N/A,Panchathar,Bharapa,7,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+1000,2005-10-20,Unidentified,,N/A,Panchathar,Seven vdcs,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+350,2005-10-27,Unidentified,,N/A,Gulmi,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+40,2005-10-31,Unidentified Students,,N/A,Bajura,Masteshwari Mavi,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+39,2005-10-31,Unidentified,,Male,Bajura,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+11,2005-10-31,Unidentified,,Female,Bajura, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+23,2005-11-04,Unidentified,,N/A,Bajura,Tolidewal vdc,2,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+1000,2005-11-05,Unidentified,,N/A,Panchathar,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+30,2005-11-12,Unidentified,,N/A,Dhading,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+8,2005-11-14,Unidentified,,N/A,Panchathar,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+55,2005-11-15,Unidentified,,N/A,Kaski, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+25,2005-11-15,Unidentified,,N/A,Okhaldhunga,Bigutar,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+14,2005-11-17,Unidentified,,N/A,Palpa, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+27,2005-11-18,Unidentified,,N/A,Bajura,Tolidewal,2,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+53,2005-11-25,Unidentified,,Male,Dadeldhura,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+37,2005-11-25,Unidentified,,Female,Dadeldhura, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+70,2005-11-30,Unidentifed,,N/A,Taplejung, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+5,2005-12-02,Unidentified,,Male,Surkhet,,,0,Agriculture,N/A,By Non-State,Maoists,Abduction,Abduction
+50,2005-12-04,Unidentied,,N/A,Bajura,Kuldeumadau,7,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+6,2005-12-04,Unidentified,,N/A,Salyan,Kubhinde,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+450,2005-12-28,Unidentified,,N/A,Palpa,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+30,2005-12-28,Unidentified,,N/A,Palpa, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+300,2006-01-16,Unidentified,,N/A,Dhankuta, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+50,2006-01-17,Unidentified Student,,N/A,Dhankuta, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+6,2006-01-17,Unidentified,,N/A,Doti,Bhumirajmandau,9,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+10000,2006-01-17,All people of all vdc,,N/A,Ilam, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+30,2006-01-18,Unidentified,,N/A,Tanahu, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+800,2006-01-22,Unidentified,,N/A,Sindhuli,,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+300,2006-01-24,Unidentified,,N/A,Dhading,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+9,2006-01-27,Unidntified,,N/A,Okhaldhunga,Baruneshwor,,0,Teacher,Teacher,By Non-State,Maoists,Abduction,Abduction
+150,2006-01-27,Unidentified,,N/A,Bhojpur,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+102,2006-01-31,Unidentified,,N/A,Palpa, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+300,2006-02-01,Unidentified,,Male,Tanahu, ,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+12,2006-02-11,Unidentified,,N/A,Ramechhap,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+21,2006-02-14,Unidentified,,N/A,Terhathum, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+400,2006-02-16,Unidentified,,N/A,Sindhuli, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+22,2006-02-23,Unidentified,,N/A,Dhading, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+21,2006-02-23,Unidentified Students,,N/A,Bajura,Barabise,1,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+1500,2006-02-23,Unidentified,,N/A,Taplejung, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+25,2006-02-25,Unidentified,,N/A,Sindhuli,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+8,2006-03-01,Unidentified,,N/A,Sindhuli,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+50,2006-03-03,unidentified,,N/A,Bajhang,Bajhang,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+109,2006-03-05,Unidentified,,N/A,Bajura,GuduKhati,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+10,2006-03-05,Unidentified,,N/A,Ramechhap,Chisapani vdc,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+500,2006-03-05,Unidentified,,N/A,Dhading,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+6,2006-03-06,Unidentified,,N/A,Sindhuli, ,,0,Agriculture,N/A,By Non-State,Maoists,Abduction,Abduction
+23,2006-03-06,Unidentified,,N/A,Ramechhap,Sanghutar vdc,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+6,2006-03-09,Unidentified,,N/A,Darchula,Latinath,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+18,2006-04-03,Unidentified,,Male,Ramechhap,,,0,Business,N/A,By Non-State,Maoists,Abduction,Abduction
+25,2006-04-03,Unidentified,,Male,Nawalparasi,,,0,Labour,N/A,By Non-State,Maoists,Abduction,Abduction
+39,2006-04-07,unidentified,,N/A,Dadeldhura,Ganeshpur,4,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+11,2006-04-20,Unidentified,,N/A,Gulmi, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+100,2006-04-22,Unidentified,,N/A,Ramechhap, ,,0,Teacher,N/A,By Non-State,Maoists,Abduction,Abduction
+120,2006-04-26,Unidentified,,N/A,Ramechhap, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+300,2006-04-27,unidentified,,N/A,Darchula,Dadakot,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+80,2006-05-01,Students,,N/A,Darchula,Dadakot,,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+50,2006-05-02,Unidentified Student,,N/A,Dhankuta, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+21,2006-05-12,Unidentified,,N/A,Dang,Kabhre,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+150,2006-05-29,Students,,N/A,Darchula,Kante,1,0,Student,Student,By Non-State,Maoists,Abduction,Abduction
+80,2006-05-31,Unidentified,,N/A,Ramechhap,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+500,2006-06-01,Unidentified,,N/A,Sindhuli,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+300,2006-06-02,Unidentified,,N/A,Sindhuli,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+500,2006-06-10,Unidentified,,N/A,Sindhuli, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+13,2006-06-25,Unidentified,,Male,Salyan,Tribeni,7,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+30,2006-08-13,Unidentified,,Male,Sarlahi,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+150,2006-08-20,Unidentified,,N/A,Dhading,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+300,2006-08-31,Unidentified,,N/A,Myagdi, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+33,2006-09-02,Unidentified,,N/A,Solukhumbu, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+31,2006-09-02,Unidentified,,N/A,Solukhumbu, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+15,2006-09-02,Unidentified,,N/A,Solukhumbu, ,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+1000,2006-09-06,Unidentified,,N/A,Dhading, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+250,2006-09-06,Unidentified,,N/A,Dhading, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+198,2006-09-07,Unidentified,,N/A,Darchula,Kante,9,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+49,2006-09-07,Unidentified,,N/A,Darchula,Dhari,5,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+7,2006-11-10,Unidentified,,N/A,Solukhumbu,,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+71,2006-11-16,Unidentified,,N/A,Lamjung, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+12,2006-11-17,Unidentified,,Male,Kaski, ,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+400,2006-11-18,Unidentified Children,,N/A,Parsa,Birwaguthi,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+400,2006-11-18,Unidentified Children,,N/A,Parsa,Birwaguthi,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
+100,2006-12-20,Unidentified,,N/A,Baitadi,Dehimandau,,0,Student,N/A,By Non-State,Maoists,Abduction,Abduction
+34,2007-03-01,No Name,,N/A,Nawalparasi,,,0,Unavailable,N/A,By Non-State,Maoists,Abduction,Abduction
