@@ -18,8 +18,18 @@ The easiest way to run the three notebooks is installing `Anaconda` and replicat
 Run, at your prompt, in the directory containing the replication data:
 
 `conda env create -f replicate.yaml`
+
 `conda env create -f replicate_r.yaml`
 
-We also provide two `yaml` environment files for exact environment replication at binary level (`replicate_arch.yaml`, `replicate_r_arch.yaml`). 
+We also provide two `yaml` environment files for exact environment replication at binary level (`replicate_arch.yaml`, `replicate_r_arch.yaml`), but these will only install on OSX 15.
 
-When done, 
+When you are done installing this, activate the environment in the folder with the notebooks and run the notebook server:
+
+For the `Python` notebooks:
+
+`conda activate nver && jupyter notebook`
+
+For the `R` notebook:
+
+`conda activate r_env && jupyter notebook`
+
