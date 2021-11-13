@@ -34,3 +34,5 @@ For the `R` notebook:
 `conda activate r_env && jupyter notebook`
 
 A browser will appear. Click the desired notebook, and run it.
+
+Note: All notebooks and code were developed on OSX 10.15, and tested on a variety of Linux distributions (Ubuntu 21.04, Arch-current etc.). Contact us if you are Windows users and want to run the code on Windows. Small numerical differences may appear due to different implementations of the random state generators between operating systems and between systems with different numbers of cores and threads.
