@@ -33,3 +33,4 @@ For the `R` notebook:
 
 `conda activate r_env && jupyter notebook`
 
+A browser will appear. Click the desired notebook, and run it.
